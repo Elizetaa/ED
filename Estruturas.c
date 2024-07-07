@@ -57,7 +57,7 @@ void destroy_exam(Exam *exame){ /* Libera a memória alocada para struc Exam */
     free(exame);
 }
 
-int get_exam_id(Exam *exame){ /* Retorna o ID da struct Exam */
+int get_exam_id(Exam *exame){ /* Retorna o ID do Exame */
     return exame->id;
 }
 
@@ -65,7 +65,7 @@ int get_exam_patient_id(Exam *exame){ /* Retorna o ID do paciente através da st
     return exame->patient_id;
 }
 
-int get_exam_rx_id(Exam *exame){ /* Retorna o ID do exame */
+int get_exam_rx_id(Exam *exame){ /* Retorna o ID da maquina de Raio-X */
     return exame->rx_id;
 }
 

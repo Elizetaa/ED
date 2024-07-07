@@ -1,4 +1,4 @@
-# Estrutura de Dados
+# Estrutura de Dados - Luiz Felipe Elizeta dos Santos e Caio Cesar Oliva Coronel
 # Sistema de Gestão de Pacientes e Exames
 
 Este projeto simples de um sistema para gerenciar pacientes e exames médicos. Com foco em manipulação de estruturas e criação de bibliotecas próprias em C.

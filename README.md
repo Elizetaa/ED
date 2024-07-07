@@ -6,14 +6,15 @@ Este projeto simples de um sistema para gerenciar pacientes e exames médicos. C
 ## Funcionalidades
 
 - Criação de pacientes com ID, nome e data de nascimento.
-- Criação de exames com ID, ID do paciente, ID do aparelho de Raio-X e data/hora do exame.
+- Criação de exames com ID, ID do paciente, ID do aparelho de Raio-X e data/hora do exame
 - Exibição das informações dos pacientes e exames.
 
 ## Estruturas e Funções
 
 ### Paciente (`Patient`)
 
-Estrutura que representa um paciente.
+Estrutura que representa um paciente. Dividida em ID, Nome e data de nascimento,
+onde são representados como `id`,`nome` e `birthdate`, respectivamente.
 
 #### Funções
 
@@ -25,7 +26,8 @@ Estrutura que representa um paciente.
 
 ### Exame (`Exam`)
 
-Estrutura que representa um exame médico.
+Estrutura que representa um exame médico. Dividida em ID da estrutura, ID do paciente, ID do exame e Data do exame,
+onde são representados como `id`,`patient_id`,`rx_id` e `time` respectivamente.
 
 #### Funções
 

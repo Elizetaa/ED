@@ -1,4 +1,4 @@
-# ED
+# Estrutura de Dados
 # Sistema de Gestão de Pacientes e Exames
 
 Este projeto simples de um sistema para gerenciar pacientes e exames médicos. Com foco em manipulação de estruturas e criação de bibliotecas próprias em C.

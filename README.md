@@ -26,7 +26,7 @@ onde são representados como `id`,`nome` e `birthdate`, respectivamente.
 
 ### Exame (`Exam`)
 
-Estrutura que representa um exame médico (`exam`). Dividida em ID da estrutura, ID do paciente, ID do exame e Data do exame,
+Estrutura que representa um exame médico (`exam`). Dividida em ID do exame, ID do paciente, ID di aparelho de Raio-X e Data do exame,
 onde são representados como `id`,`patient_id`,`rx_id` e `time` respectivamente.
 
 #### Funções

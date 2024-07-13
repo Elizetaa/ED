@@ -42,4 +42,3 @@ onde são representados como `id`,`patient_id`,`rx_id` e `time` respectivamente.
 ## Como usar
 
 Para implementar o código basta usar o arquivo executar.bat !
-o arquivo main é somente um exemplo de sua imprementação

@@ -37,3 +37,9 @@ onde são representados como `id`,`patient_id`,`rx_id` e `time` respectivamente.
 - `int get_exam_rx_id()`: Retorna o ID do aparelho de Raio-X utilizado no exame.
 - `struct tm *get_exam_time()`: Retorna a data e hora do exame.
 - `void destroy_exam()`: Libera a memória alocada para o exame.
+
+
+## Como usar
+
+Para implementar o código basta usar o arquivo executar.bat !
+o arquivo main é somente um exemplo de sua imprementação

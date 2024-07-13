@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "Estruturas.h"
+#include "pacientes.h"
+#include "exames.h"
 
 
 int main()
